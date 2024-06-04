@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inconsolata:wght@200..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+
+.footer {
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    background-color: #f8f9fa;
+    min-height: 3rem;
+    bottom: 0;
+    font-size: 1.1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.footer a {
+    text-decoration: none;
+    font-family: 'roboto', arial, helvetica, sans-serif;
+    color: #000;
+    font-weight: 400;
+}
+
+.footer img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px; 
+}
+

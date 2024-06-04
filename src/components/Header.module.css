@@ -1,0 +1,33 @@
+/* instalar a extensão css modules */
+.header {
+    /* font-size: 2em;
+    background-color: aquamarine; */
+    font-family: 'roboto', arial, helvetica, sans-serif;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 216);
+    padding: 17px;
+    font-size: 1.7rem;
+
+    /* Menu fixo na pagina */
+    /* position: fixed;
+    width: 100%;
+    top: 0; */
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+}
+
+.linkMenu {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu img {
+    height: 40px;
+}
+
